@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anu
+- 👀 I’m interested in designing.
+- 🌱 I’m currently learning B.TECH in computer science.
